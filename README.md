@@ -1,2 +1,1 @@
-# nodeTest
-자바스크립트 연습
+JavaScript, Node.js 공부 레포지토리
